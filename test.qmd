@@ -1,0 +1,21 @@
+---
+jupyter: python3
+---
+
+does this even work
+
+```{python}
+2+2
+2-2
+```
+
+```{python}
+install.packages("tidyverse")
+library(tidyverse)
+```
+
+```{python}
+penguins %>% 
+  select(1)
+```
+
